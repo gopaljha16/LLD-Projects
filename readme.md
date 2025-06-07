@@ -1,2 +1,2 @@
 # Project -1 Google Docs Documnet Editor.
-# Project -2 Zomtato LLD
+# Project -2 Zomtato LLD Code and UML
